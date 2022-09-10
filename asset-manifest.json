@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd799f6d.chunk.css",
+    "main.css": "/static/css/main.bf6409b3.chunk.css",
     "main.js": "/static/js/main.8c19cde8.chunk.js",
     "main.js.map": "/static/js/main.8c19cde8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fd16a341.js",
@@ -12,16 +12,16 @@
     "static/js/3.f1b42db7.chunk.js.map": "/static/js/3.f1b42db7.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.caa0f46e.chunk.css.map": "/static/css/2.caa0f46e.chunk.css.map",
-    "static/css/main.bd799f6d.chunk.css.map": "/static/css/main.bd799f6d.chunk.css.map",
+    "static/css/main.bf6409b3.chunk.css.map": "/static/css/main.bf6409b3.chunk.css.map",
     "static/js/2.ae5e1745.chunk.js.LICENSE.txt": "/static/js/2.ae5e1745.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/boyarskyc.8c5bbb41.woff",
+    "static/media/index.css": "/static/media/Material Icons(_abcdefghiklmnoprstuvwy).8041bbe1.woff2",
     "static/media/getFetch.cjs": "/static/media/getFetch.582d29c4.cjs"
   },
   "entrypoints": [
     "static/js/runtime-main.fd16a341.js",
     "static/css/2.caa0f46e.chunk.css",
     "static/js/2.ae5e1745.chunk.js",
-    "static/css/main.bd799f6d.chunk.css",
+    "static/css/main.bf6409b3.chunk.css",
     "static/js/main.8c19cde8.chunk.js"
   ]
 }
