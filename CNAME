@@ -1,1 +1,1 @@
-feya-dev.pp.ua
+process.env.REACT_APP_CNAME_URL
